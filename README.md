@@ -135,3 +135,15 @@ The central finding: **monetization is a function of engagement.** Players who s
 - **SQL** — player segmentation and behavioral analysis
 - **Tableau** — dashboard and visualization
 - **Jupyter Notebook** — heatmap analysis and exploration
+
+---
+
+## Project Files
+
+- [Player-Pulse-A-Lifecycle-Segmentation-Framework-for-Live-Service-Products.docx](Player-Pulse-A-Lifecycle-Segmentation-Framework-for-Live-Service-Products.docx) — full written report with charts, matching this README
+- [PORTFOLIO_BRIEF.md](PORTFOLIO_BRIEF.md) — condensed summary for writing portfolio page copy
+- `generate_datasets.py` — synthetic player and transaction data generation
+- `heatmap_analysis.ipynb` — correlation heatmap (EDA)
+- `EDA_SQL_QUERIES.sql`, `Joining the two datasets.sql` — the five SQL segmentation questions
+- `02_python_analysis.py`, `03_random_forest_models.py` — Random Forest classification and regression models
+- `Valorant_Insights_Dashboard.twb` — Tableau dashboard
